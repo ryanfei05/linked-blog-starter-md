@@ -27,3 +27,5 @@ Non-exhaustive function inventory
 ![[Pasted image 20260325131000.png]]
 
 Need to spend some time reviewing basic ellipse + hyperbola equations
+https://tutorial.math.lamar.edu/classes/calciii/QuadricSurfaces.aspx
+important to be able to recognize all

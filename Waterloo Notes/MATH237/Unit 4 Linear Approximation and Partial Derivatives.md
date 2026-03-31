@@ -12,3 +12,18 @@
 **Tangent Plane**
 ![[Pasted image 20260327123439.png]]
 **Linear Approximation for z = f(x,y)**
+**in 1D:**
+- use tangent line to approximate graph near point of tangency
+![[Pasted image 20260327133450.png]]
+![[Pasted image 20260327133621.png]]
+**2D:**
+- use tangent plane to approximate graph near point of tangency
+![[Pasted image 20260327134025.png]]
+- don't expand the brackets (these represent the small increments)
+**Increment Form of Linear Approximation**
+![[Pasted image 20260327135949.png]]
+**Linear Approximation in R^3**
+![[Pasted image 20260327140802.png]]
+![[Pasted image 20260327140827.png]]
+- Same formula just more compact notation
+We can generalize this into **R^n**
