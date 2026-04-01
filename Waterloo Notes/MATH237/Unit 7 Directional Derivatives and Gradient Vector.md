@@ -29,4 +29,4 @@
 - ![[Pasted image 20260331172538.png]]
 - same as 2d
 ![[Pasted image 20260331173138.png]]![[Pasted image 20260331173154.png]]
-- is this important?
+![[Pasted image 20260331173343.png]]
