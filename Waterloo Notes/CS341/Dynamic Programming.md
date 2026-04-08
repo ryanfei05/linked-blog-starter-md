@@ -114,5 +114,13 @@ Solve(v)
 ```
 - top down approach for tree structure with memoization
 **Optimal Binary Search Trees**
-![[Pasted image 20260407141414.png]]![[Pasted image 20260407143759.png]]
+![[Pasted image 20260407141414.png]]
+![[Pasted image 20260408080724.png]]
+
+****![[Pasted image 20260407143759.png]]
+
 ![[Pasted image 20260407143821.png]]
+**Text Segmentation**
+![[Pasted image 20260408083220.png]]
+![[Pasted image 20260408083334.png]]
+![[Pasted image 20260408083350.png]]
